@@ -60,11 +60,11 @@ We are a new and enthusiastic organization of fresh developers aiming to make a 
 
 ## Our Projects
 
-  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 20px; width: 300px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+<div style="border: 1px solid #ccc; border-radius: 8px; padding: 20px; width: 300px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <h3 style="margin-bottom: 10px;">Card Title</h3>
     <p style="margin-bottom: 15px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fringilla risus orci, id laoreet dolor dignissim ac.</p>
     <a href="#" style="text-decoration: none; color: #007BFF;">Read More</a>
-  </div>
+</div>
 
 
 <!--Tools & Language -->
