@@ -29,8 +29,14 @@
 </h1>
 
 
+![About Us](/assets/animation.gif)
+
+At Future Insight, we are passionate about crafting innovative software solutions that empower businesses to thrive in the ever-evolving technological landscape. Our team of talented developers and technologists work tirelessly to build cutting-edge applications, tools, and services that push the boundaries of what's possible.
 
 
+
+
+<!-- 
 <style>
   .container {
     display: flex;
@@ -68,7 +74,7 @@
   <div class="gif-container">
     <img src="/assets/animation.gif" alt="Your GIF">
   </div>
-</div>
+</div> -->
 
 
 
