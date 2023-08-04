@@ -32,7 +32,7 @@
 
 We are a new and enthusiastic organization of fresh developers aiming to make a positive impact in the tech world. Here's what we're all about
 
-<img align=right width="600" src="/assets/final-animation.gif" /> 
+<img align=right width="550" src="/assets/final-animation.gif" /> 
 
 <p align="left">
     <ul align="justify">
