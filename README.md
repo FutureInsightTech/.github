@@ -28,10 +28,13 @@
      Welcome to Future Insight's GitHub Page!
 </h1>
 
+<img align=right width=150 src="/assets/animation.gif" /> <
 
-![About Us](/assets/animation.gif)
-
+<p align="left" width= "-150">
 At Future Insight, we are passionate about crafting innovative software solutions that empower businesses to thrive in the ever-evolving technological landscape. Our team of talented developers and technologists work tirelessly to build cutting-edge applications, tools, and services that push the boundaries of what's possible.
+</p>
+
+
 
 
 
