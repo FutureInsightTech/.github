@@ -1,0 +1,12 @@
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <div style="border: 1px solid #ccc; border-radius: 8px; padding: 20px; width: 300px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.9)">
+                <img src="assets/Logo.jpeg" alt="Future Insight Website Image" style="  width: 100%; border-radius: 8px; margin-bottom: 10px;">
+                <h3 style="margin-bottom: 10px;">Future Insight Website</h3>
+                <p style="margin-bottom: 15px;">Our Website to represent out self</p>
+                <a href="https://future-insight.blog" style="text-decoration: none; color: #007BFF;"></a>
+            </div>
+        </div>
+    </foreignObject>
+</svg>
