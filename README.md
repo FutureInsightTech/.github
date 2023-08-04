@@ -28,94 +28,27 @@
      Welcome to Future Insight's GitHub Page!
 </h1>
 
-<img align=right width="300" height="100" src="/assets/animation.gif" /> 
-
-<p align="left">
-At Future Insight, we are passionate about crafting innovative software solutions that empower businesses to thrive in the ever-evolving technological landscape. Our team of talented developers and technologists work tirelessly to build cutting-edge applications, tools, and services that push the boundaries of what's possible.
-</p>
-
-
-
-
-
-
-<!-- 
-<style>
-  .container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 20px;
-  }
-
-  .about-us {
-    width: 40%;
-    padding: 20px;
-    /* background-color: #f0f0f0; */
-  }
-
-  .gif-container {
-    width: 50%;
-    text-align: center;
-  }
-
-  .gif-container img {
-    max-width: 100%;
-    height: auto;
-  }
-</style>
-
-<div class="container">
-  <div class="about-us">
-    <h2>About Us</h2>
-    <ul>
-        <li>
-        At Future Insight, we are passionate about crafting innovative software solutions that empower businesses to thrive in the ever-evolving technological landscape. Our team of talented developers and technologists work tirelessly to build cutting-edge applications, tools, and services that push the boundaries of what's possible.
-        </li>
-    <ul>
-  </div>
-  <div class="gif-container">
-    <img src="/assets/animation.gif" alt="Your GIF">
-  </div>
-</div> -->
-
-
-
-
-
-
-
-
-<!-- 
- <div style="display: flex; justify-content: space-between; align-items: center; padding: 20px;">
-    <div style="width: 40%; padding: 20px;">
-      <h2>About Us</h2>
-      <p>
-      </p>
-    </div>
-    <div style="width: 50%; text-align: center;">
-      <img src="/assets/animation.gif" alt="Your GIF" style="max-width: 100%; height: auto;">
-    </div>
-  </div> -->
-
-
-
-
-
-
-
-
+<img align=right width="500" src="/assets/animation.gif" /> 
 
 ## About Us
-<p align="justify">
-At Future Insight, we are passionate about crafting innovative software solutions that empower businesses to thrive in the ever-evolving technological landscape. Our team of talented developers and technologists work tirelessly to build cutting-edge applications, tools, and services that push the boundaries of what's possible.
+<p align="left">
+    <ul align="justify">
+        <li>
+            At Future Insight, we are passionate about crafting innovative software solutions that empower businesses to thrive in the ever-evolving technological landscape. Our team of talented developers and technologists work tirelessly to build cutting-edge applications, tools, and services that push the boundaries of what's possible.            
+        </li>
+        <li>
+            As a technology-driven organization, we believe in the power of knowledge sharing. That's why we also provide insightful blogs on various technology topics, keeping you up-to-date with the latest trends, best practices, and industry insights.            
+        </li>
+        <li>Explore our repositories to discover the projects we've been working on, and feel free to contribute or collaborate with us. Together, we're shaping the future of technology, one line of code at a time.</li>
+        <li>
+            Join us on this exciting journey of exploration, innovation, and technological advancement. Let's build a better future together!
+        </li>
+    </ul>
+
 </p>
-<p align="justify">
-As a technology-driven organization, we believe in the power of knowledge sharing. That's why we also provide insightful blogs on various technology topics, keeping you up-to-date with the latest trends, best practices, and industry insights.
-</p>
-<p align="justify">
-Explore our repositories to discover the projects we've been working on, and feel free to contribute or collaborate with us. Together, we're shaping the future of technology, one line of code at a time.
-</p>
-<p align="justify">
-Join us on this exciting journey of exploration, innovation, and technological advancement. Let's build a better future together!
-</p>
+
+
+
+
+
+
