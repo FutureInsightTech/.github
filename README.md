@@ -60,7 +60,7 @@ We are a new and enthusiastic organization of fresh developers aiming to make a 
 
 ## Our Projects
 
-![image](/code-files/hello.svg)
+![cards](/code-files/cards.svg)
 
 <!-- <div>
     <img src="/code-files/card.svg" width="400" height="400" alt="css-in-readme">
