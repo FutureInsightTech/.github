@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdul-rafay1999/" style="margin-right: 20px;">
+  <a href="" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="display: block; margin: auto;">
   </a>
   <a href="https://future-insight.blog" style="margin-right: 20px;">
@@ -32,7 +32,7 @@
 
 We are a new and enthusiastic organization of fresh developers aiming to make a positive impact in the tech world. Here's what we're all about
 
-<img align=right width="550" src="/assets/final-animation.gif" /> 
+<img align=right width="525" src="/assets/final-animation.gif" /> 
 
 <p align="left">
     <ul align="justify">
