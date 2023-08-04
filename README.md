@@ -59,12 +59,27 @@ We are a new and enthusiastic organization of fresh developers aiming to make a 
 </p>
 
 ## Our Projects
-<p style="border: 1px solid #ccc; border-radius: 8px; padding: 20px; width: 300px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.9)">
-    <img src="assets/Logo.jpeg" alt="Future Insight Website Image" style=" width: 100%; border-radius: 8px; margin-bottom: 10px;">
+
+<p style="border: 1px solid #ccc; border-radius: 8px; padding: 20px; width: 300px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.9)"">
+  <img src="/assets/Logo.jpeg">
+  <p style="margin-bottom: 15px;">Future Insight Website</p>
+  <a href="https://future-insight.blog" style="text-decoration: none; color: #007BFF;"></a>
+</p>
+
+
+
+
+
+
+
+
+
+<!-- <p style="border: 1px solid #ccc; border-radius: 8px; padding: 20px; width: 300px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.9)">
+    <img src="/assets/Logo.jpeg" alt="Future Insight Website Image" style=" width: 100%; border-radius: 8px; margin-bottom: 10px;">
     <h3 style="margin-bottom: 10px;">Future Insight Website</h3>
     <p style="margin-bottom: 15px;">Our Website to represent out self</p>
     <a href="https://future-insight.blog" style="text-decoration: none; color: #007BFF;"></a>
-</p>
+</p> -->
 
 
 
@@ -97,9 +112,3 @@ We are a new and enthusiastic organization of fresh developers aiming to make a 
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
-
-
-
-
