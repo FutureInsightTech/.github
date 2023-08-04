@@ -25,11 +25,23 @@
          alt="Waving hand animated gif"
          height="35"
          width="35" />
-     Welcome to Future
- Insight's GitHub Page!
+     Welcome to Future Insight's GitHub Page!
 </h1>
 
 
+
+
+ <div style="display: flex; justify-content: space-between; align-items: center; padding: 20px;">
+    <div style="width: 40%; padding: 20px;">
+      <h2>About Us</h2>
+      <p>
+        At Future Insight, we are passionate about crafting innovative software solutions that empower businesses to thrive in the ever-evolving technological landscape. Our team of talented developers and technologists work tirelessly to build cutting-edge applications, tools, and services that push the boundaries of what's possible.
+      </p>
+    </div>
+    <div style="width: 50%; text-align: center;">
+      <img src="/assets/animation.gif" alt="Your GIF" style="max-width: 100%; height: auto;">
+    </div>
+  </div>
 
 
 
