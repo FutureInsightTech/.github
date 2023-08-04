@@ -59,8 +59,16 @@ We are a new and enthusiastic organization of fresh developers aiming to make a 
 </p>
 
 ## Our Projects
+<p style="border: 1px solid #ccc; border-radius: 8px; padding: 20px; width: 300px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.9)">
+    <img src="assets/Logo.jpeg" alt="Future Insight Website Image" style=" width: 100%; border-radius: 8px; margin-bottom: 10px;">
+    <h3 style="margin-bottom: 10px;">Future Insight Website</h3>
+    <p style="margin-bottom: 15px;">Our Website to represent out self</p>
+    <a href="https://future-insight.blog" style="text-decoration: none; color: #007BFF;"></a>
+</p>
 
-![cards](/code-files/cards.svg)
+
+
+
 
 <!-- <div>
     <img src="/code-files/card.svg" width="400" height="400" alt="css-in-readme">
