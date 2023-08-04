@@ -28,7 +28,7 @@
      Welcome to Future Insight's GitHub Page!
 </h1>
 
-<img align=right width="500" src="/assets/animation.gif" /> 
+<img align=right width="500" src="/assets/final-animation.gif" /> 
 
 ## About Us
 <p align="left">
