@@ -59,7 +59,7 @@ We are a new and enthusiastic organization of fresh developers aiming to make a 
 </p>
 
 ## Our Projects
-<a href="https://future-insight.blog" style="text-decoration: none ; color: white;">
+<!-- <a href="https://future-insight.blog" style="text-decoration: none ; color: white;">
     <img src="/assets/Logo.jpeg" style="border: 1px solid #ccc; border-radius: 8px; padding: 20px; width: 300px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.9)">
     <p style="margin-bottom: 25px; text-align: center; color: white">Future Insight Website</p>
 </a>
@@ -68,7 +68,19 @@ We are a new and enthusiastic organization of fresh developers aiming to make a 
 <a href="" style="text-decoration: none ; color: white;">
     <img src="/assets/Future-Insight-Application.png" style="border: 1px solid #ccc; border-radius: 8px; padding: 20px; width: 300px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.9)">
     <p style="margin-bottom: 25px; text-align: center; color: white">Future Insight Android Application</p>
-</a>
+</a> -->
+
+
+<div style="white-space: nowrap;">
+    <a href="https://future-insight.blog" style="text-decoration: none; color: white; display: inline-block; margin-right: 20px;">
+        <img src="/assets/Logo.jpeg" style="border: 1px solid #ccc; border-radius: 8px; padding: 20px; width: 300px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.9)">
+        <p style="margin-bottom: 25px; text-align: center; color: white">Future Insight Website</p>
+    </a>
+    <a href="" style="text-decoration: none; color: white; display: inline-block;">
+        <img src="/assets/Future-Insight-Application.png" style="border: 1px solid #ccc; border-radius: 8px; padding: 20px; width: 300px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.9)">
+        <p style="margin-bottom: 25px; text-align: center; color: white">Future Insight Android Application</p>
+    </a>
+</div>
 
 
 
