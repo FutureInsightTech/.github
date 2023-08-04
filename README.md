@@ -60,45 +60,6 @@ We are a new and enthusiastic organization of fresh developers aiming to make a 
     </ul>
 </p>
 
-## Our Projects
- <a href="https://future-insight.blog" style="text-decoration: none ; color: white;">
-    <img src="/assets/Logo.jpeg" style="border: 1px solid #ccc; border-radius: 8px; padding: 20px; width: 300px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.9)">
-    <p style="margin-bottom: 25px; text-align: center; color: white">Future Insight Website</p>
-</a>
-
-
-<a href="" style="text-decoration: none ; color: white;">
-    <img src="/assets/Future-Insight-Application.png" style="border: 1px solid #ccc; border-radius: 8px; padding: 20px; width: 300px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.9)">
-    <p style="margin-bottom: 25px; text-align: center; color: white">Future Insight Android Application</p>
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- <p style="border: 1px solid #ccc; border-radius: 8px; padding: 20px; width: 300px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.9)">
-    <img src="/assets/Logo.jpeg" alt="Future Insight Website Image" style=" width: 100%; border-radius: 8px; margin-bottom: 10px;">
-    <h3 style="margin-bottom: 10px;">Future Insight Website</h3>
-    <p style="margin-bottom: 15px;">Our Website to represent out self</p>
-    <a href="https://future-insight.blog" style="text-decoration: none; color: #007BFF;"></a>
-</p> -->
-
-
-
-
-
-<!-- <div>
-    <img src="/code-files/card.svg" width="400" height="400" alt="css-in-readme">
-</div> -->
-
 <br>
 
 ## How To Code
@@ -122,3 +83,31 @@ We are a new and enthusiastic organization of fresh developers aiming to make a 
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+## How To Reach Us
+
+
+
+
+
+
+
+
+
+<!-- Not Working Stage -->
+<!-- Problem:
+- The images are in a single line
+- This is the GitHub Project Section
+ -->
+
+<!-- ## Our Projects
+ <a href="https://future-insight.blog" style="text-decoration: none ; color: white;">
+    <img src="/assets/Logo.jpeg" style="border: 1px solid #ccc; border-radius: 8px; padding: 20px; width: 300px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.9)">
+    <p style="margin-bottom: 25px; text-align: center; color: white">Future Insight Website</p>
+</a>
+
+<a href="" style="text-decoration: none ; color: white;">
+    <img src="/assets/Future-Insight-Application.png" style="border: 1px solid #ccc; border-radius: 8px; padding: 20px; width: 300px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.9)">
+    <p style="margin-bottom: 25px; text-align: center; color: white">Future Insight Android Application</p>
+</a> -->
