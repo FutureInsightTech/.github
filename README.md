@@ -59,12 +59,18 @@ We are a new and enthusiastic organization of fresh developers aiming to make a 
 </p>
 
 ## Our Projects
+<a href="https://future-insight.blog" style="text-decoration: none ; color: white;">
+    <img src="/assets/Logo.jpeg" style="border: 1px solid #ccc; border-radius: 8px; padding: 20px; width: 300px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.9)">
+    <p style="margin-bottom: 25px; text-align: center; color: white">Future Insight Website</p>
+</a>
 
-<p style="border: 1px solid #ccc; border-radius: 8px; padding: 20px; width: 300px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.9)"">
-  <img src="/assets/Logo.jpeg">
-  <p style="margin-bottom: 15px;">Future Insight Website</p>
-  <a href="https://future-insight.blog" style="text-decoration: none; color: #007BFF;"></a>
-</p>
+
+<a href="https://future-insight.blog" style="text-decoration: none ; color: white;">
+    <img src="https://github.com/FutureInsightTech/.github/assets/82662797/9d6a0035-42b9-41a7-9538-3b0d5162bd09
+" style="border: 1px solid #ccc; border-radius: 8px; padding: 20px; width: 300px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.9)">
+    <p style="margin-bottom: 25px; text-align: center; color: white">Future Insight Android Application</p>
+</a>
+
 
 
 
