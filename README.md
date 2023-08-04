@@ -28,9 +28,11 @@
      Welcome to Future Insight's GitHub Page!
 </h2>
 
+## About Us
+
 <img align=right width="600" src="/assets/final-animation.gif" /> 
 
-## About Us
+We are a new and enthusiastic organization of fresh developers aiming to make a positive impact in the tech world. Here's what we're all about
 <p align="left">
     <ul align="justify">
         <li>
